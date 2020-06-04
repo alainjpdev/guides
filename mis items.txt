@@ -1,0 +1,24 @@
+curl -X GET https://api.mercadolibre.com/users/131191184/items/search?search_type=scan&access_token=APP_USR-1074682332784872-042107-c9839db8055305d4ae0b58af94b72a9d-131191184
+
+
+
+curl -X GET https://api.mercadolibre.com/users/131191184/items/search?search_type=scan&access_token=APP_USR-1074682332784872-042107-c9839db8055305d4ae0b58af94b72a9d-131191184
+&scroll_id=YXBpY29yZS1pdGVtczItdGVtcA==:ZHMtYXBpY29yZS1pdGVtcy0wNA==:DXF1ZXJ5QW5kRmV0Y2gBAAAAAA4ChEsWZFJib0pXUmFRcWVBRjdLVVJZbXl1QQ==
+
+mi own items all
+ curl -X GET https://api.mercadolibre.com/users/131191184/items/search?access_token=APP_USR-1074682332784872-042107-c9839db8055305d4ae0b58af94b72a9d-131191184
+
+https://api.mercadolibre.com/orders/search
+
+
+
+
+curl -X GET https://api.mercadolibre.com/users/131191184/items/search?search_type=scan&access_token=APP_USR-1074682332784872-042109-6af730f86d476ccfdbf676ace91a9725-131191184&scroll_id=YXBpY29yZS1pdGVtczItdGVtcA==:ZHMtYXBpY29yZS1pdGVtcy0wNA==:DXF1ZXJ5QW5kRmV0Y2gBAAAAABEueY4WbjZ5T0EySVFSbmlOWDFKNF9JS2FMQQ==
+
+
+
+http://auth.mercadolibre.com.mx/authorization?response_type=code&client_id=1074682332784872&redirect_uri=https://pyappml.herokuapp.com/
+
+TG-5e9eca63bd6a6e00064e1c63-131191184
+
+curl -X GET https://api.mercadolibre.com/users/131191184/items/search?search_type=scan&access_token=TG-5e9eca63bd6a6e00064e1c63-131191184&scroll_id=YXBpY29yZS1pdGVtczItdGVtcA==:ZHMtYXBpY29yZS1pdGVtcy0wNA==:DXF1ZXJ5QW5kRmV0Y2gBAAAAABEueY4WbjZ5T0EySVFSbmlOWDFKNF9JS2FMQQ==

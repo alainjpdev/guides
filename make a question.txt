@@ -1,0 +1,1 @@
+curl -X POST "Content-Type: application/json" -X POST -d '{"text":"Tienen disponible?.", "item_id":"MLM594464906"}'  https://api.mercadolibre.com/questions/MLM594464906?access_token=APP_USR-5543596132171671-042218-8523084d5eea088a1ea13d9de5d03c85-489274699

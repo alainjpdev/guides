@@ -1,0 +1,20 @@
+curl -d '{"key1":"value1", "key2":"value2"}' -H "Content-Type: application/json" -X POST http://localhost:3000/data
+
+curl -X POST \
+-H "Content-Type: application/json" \
+"https://api.mercadopago.com/users/test_user?access_token=PROD_ACCESS_TOKEN" \
+-d '{"site_id":"MLA"}'
+
+
+curl -d '{"site_id":"MLM"}' -H "Content-Type: application/json" -X POST https://api.mercadolibre.com/users/test_user?access_token=APP_USR-5543596132171671-042020-d830ccb36245a3f23298e2736e3f956c-489274699
+
+
+curl -X POST -H "Content-Type: application/json" -d
+'{
+   	"site_id":"MLA"
+}'
+https://api.mercadolibre.com/users/test_user?access_token=...
+
+
+############################USAR DOBLES COMILLAS####################################
+curl -d "{"site_id":"MLM"}" -H "Content-Type: application/json" https://api.mercadolibre.com/users/test_user?access_token=APP_USR-1074682332784872-042020-1388045909098a1d993f329865eb5b76-131191184

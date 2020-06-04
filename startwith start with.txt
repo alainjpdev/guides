@@ -1,0 +1,18 @@
+
+# html_content = urlopen("https://listado.mercadolibre.com.mx/_CustId_512655593")
+# html_content = open('primeras50p.html')
+html_content = urlopen("https://articulo.mercadolibre.com.mx/MLM-764411523-ahora-extracto-de-astragalus-500-mg-estandarizado-a-un-_JM?quantity=1#position=1&type=item&tracking_id=5179052b-8b21-424c-ad34-31531223c7fc")
+# for l in listOfNums:
+soup = BeautifulSoup(html_content, "lxml")
+
+
+lista = []
+# count = 0
+# for link in soup.find_all('a'):
+#     links = link.get('href')
+#     if links.startswith('https://articulo'):
+#         count = count+1
+#         lista.append(links)
+#         listOfNums = list(set(lista))
+# print(listOfNums)
+# print(count)

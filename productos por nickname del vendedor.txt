@@ -1,0 +1,4 @@
+
+
+
+curl -X GET https://api.mercadolibre.com/sites/MLM/search?nickname=BASEHIT__MX

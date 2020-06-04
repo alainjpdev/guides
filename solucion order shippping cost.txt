@@ -1,0 +1,4 @@
+Hola mi nombre es Alain, espero se encuentre bien he tenido un problema espero me pueda apoyar.
+
+Cuando hago el get order hace un par de semanas me extraía el precio del envío sin ningún problema, ahora en order aparece en 0 porque el envío se realiza por medio de Mercado Envios, y no encuentro el cargo por este rubro en la sección de order, espero me pueda apoyar, en específico en la orden 2407599537 del usuario id": 489274699​​​​​​​
+"shipping_cost": 0,

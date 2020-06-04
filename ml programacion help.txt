@@ -1,0 +1,5 @@
+Hola, tengo un script en rubi que realiza la siguiente función: 
+Conectar con la api de mecadolibre, realiza un get de las ventas concretadas (orders) y genera un csv.
+ 
+Por realizar:
+Realizar ese script en python3 , agregar un reloj que realice el refresh token cada que caduque  y haga el get de manera automática local.

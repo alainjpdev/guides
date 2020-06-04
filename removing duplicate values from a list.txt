@@ -1,0 +1,4 @@
+https://thispointer.com/python-how-to-remove-duplicates-from-a-list/
+
+listOfNums = list(set(listOfNums))
+

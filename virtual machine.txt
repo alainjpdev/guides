@@ -1,0 +1,3 @@
+linode
+digital ocean 
+aws

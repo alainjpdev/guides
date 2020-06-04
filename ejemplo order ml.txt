@@ -1,0 +1,7 @@
+https://api.mercadolibre.com/orders/search?seller=489274699&q=2400964733&access_token=APP_USR-5543596132171671-042605-5b90bd8a82ff425b016706f7e73aa65f-489274699
+
+/orders/search?seller=$SELLER_ID&q=$ORDER_ID&access_token=$ACCESS_TOKEN
+
+curl -X GET https://api.mercadolibre.com/orders/2407599537?access_token=APP_USR-5543596132171671-042605-5b90bd8a82ff425b016706f7e73aa65f-489274699
+
+https://api.mercadolibre.com/shipments/28319328344

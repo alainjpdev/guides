@@ -1,0 +1,2 @@
+alain@DESKTOP-22NRO3A:~$ cd /mnt/c/
+alain@DESKTOP-22NRO3A:/mnt/c$ ls -la

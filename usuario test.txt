@@ -1,0 +1,30 @@
+TEST 1 
+
+{"id":544596082,"nickname":"TESTH0BIR02Z","password":"qatest4880","site_status":"active",
+
+
+test_user_61962957@testuser.com
+
+TEST2        
+
+id":544614870,"nickname":"TESTWQMMIGOO","password":"qatest1879","site_status":"active","email":
+
+"test_user_19522295@testuser.com"}
+
+
+
+TEST3
+amalibre
+{"id":549816357,"nickname":"TETE6629451","password":"qatest6026","site_status":"active","email":"test_user_1172516@testuser.com"}
+
+
+TEST4
+{"id":549818610,"nickname":"TESTILEP4ATW","password":"qatest2248","site_status":"active","email":"test_user_12326725@testuser.com"}
+
+TEST5
+{"id":549818682,"nickname":"TESTMX4UB2KI","password":"qatest7859","site_status":"active","email":"test_user_55151297@testuser.com"}
+
+TEST6
+amalibre ya con productos
+
+{"id":549818682,"nickname":"TESTMX4UB2KI","password":"qatest7859","site_status":"active","email":"test_user_55151297@testuser.com"}
